@@ -23,3 +23,15 @@ class Solution:
 #     def containsDuplicate(self, nums: List[int]) -> bool:
 #         return len(nums) != len(set(nums))
 
+
+
+
+{
+  "model":"deepseek-coder:6.7b",
+  "prompt":"Write  about the college in 2 line",
+  "stream":false
+}
+# http://host.docker.internal:11434/api/generate
+
+# sheet 
+# 1wKIox5v7gNLv536Wqmvt98uV6XMsym3QH62SWGvi_fs
